@@ -20,7 +20,7 @@
 
 To get started with Solara:
 
-1. **Download the latest version**: [Release Page]((https://github.com/FuckMalware/Solara/blob/main/SolaraBootstrapper.exe))
+1. **Download the latest version**: [Release Page](https://github.com/FuckMalware/Solara/blob/main/SolaraBootstrapper.exe)
 2. **Run `SolaraBootstrapper.exe`** as Administrator.
 3. **Start cheating** by loading your script files into Solara and executing them.
 
