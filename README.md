@@ -1,6 +1,6 @@
 # Solara Executor
 
-(![ilikekids](https://github.com/user-attachments/assets/de180f7c-1c7f-47a5-abce-434e29669f9d)
+![ilikekids](https://github.com/user-attachments/assets/de180f7c-1c7f-47a5-abce-434e29669f9d)
 
 
 ## Overview
