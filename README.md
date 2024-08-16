@@ -1,8 +1,7 @@
 # Solara Executor
 
-![Solara Logo](![ilikekids](https://github.com/user-attachments/assets/de180f7c-1c7f-47a5-abce-434e29669f9d)
+(![ilikekids](https://github.com/user-attachments/assets/de180f7c-1c7f-47a5-abce-434e29669f9d)
 
-![solara](https://github.com/user-attachments/assets/97dee0ec-850f-4bf2-9280-8527a9a8a20e)
 
 ## Overview
 
